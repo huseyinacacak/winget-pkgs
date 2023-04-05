@@ -16,7 +16,7 @@ name: Spell Checking
 #
 # These elements work together to make it happen:
 #
-# `on.issue_comment`fdsfd
+# `on.issue_comment`fdsfdasdasds
 #   This event listens to comments by users asking to update the metadata.
 #
 # `jobs.update`
